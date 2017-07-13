@@ -63,9 +63,9 @@ The last librarie is the kplr tool that you can instal doing the following: ::
 Test your installation
 ======================
 
-Once all the above is done, you can open a terminal and go to the directory where we have been downloaded using git (at the beginning of this page). 
+Once all the above is done, you can open a terminal and go to the directory where we have downloaded the code using git (at the beginning of this page). 
 
-Go to Notebooks subdirectory. Enter: ::
+Go to codigo subdirectory and enter: ::
   
    jupyter notebook
 
