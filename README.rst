@@ -4,7 +4,8 @@ WHAT TO INSTALL
 
 This is the list of the different packages/software you will have to install in order to 
 use the tool.
-If you run into any problems, please contact Leandro de Almeida: monolipo.physics@gmail.com
+If you run into any problems, please contact Leandro de Almeida: monolipo.physics@gmail.com.
+Any use or modification of this tool can be done, as long as the author is warned
 These instructions were adapted from Morisset, C 2017.
 
 git
