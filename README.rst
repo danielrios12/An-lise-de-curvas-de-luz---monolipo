@@ -57,9 +57,9 @@ additional libraries. From a terminal, do the following: ::
    pip install pillow
    
 The last librarie is the kplr tool that you can instal doing the following: ::
-   git clone https://github.com/dfm/kplr.git
-   cd kplr
-   python setup.py install
+git clone https://github.com/dfm/kplr.git
+cd kplr
+python setup.py install
    
 
 
