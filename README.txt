@@ -1,1 +1,1 @@
-Aqui eu colocarei alguns detalhes sobre o código
+Aqui eu colocarei alguns detalhes sobre o cÃ³digo 
