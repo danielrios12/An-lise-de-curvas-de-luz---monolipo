@@ -5,6 +5,7 @@ WHAT TO INSTALL
 This is the list of the different packages/software you will have to install in order to 
 use the tool.
 If you run into any problems, please contact Leandro de Almeida: monolipo.physics@gmail.com
+These instructions were adapted from Morisset, C 2017.
 
 git
 ===
@@ -69,4 +70,4 @@ Click on ``test_install.ipynb``
 
 A new page appears. You can execute each of the instructions from this page by clicking on the "PLAY" button in the upper part of the page. Or press SHIFT-ENTER.
 
-If everything is OK, you should see the different versions of the packages we will use.
+If everything is OK, it will appear "have fun".
