@@ -35,7 +35,7 @@ python 3
 
 The most simple way to have all the needed packages is to install a full python distribution using for example Anaconda. If you already have Anaconda installed, you still may need to install the 3.6 version and some packages.
 
-To verify if you have anaconda installed, just look at the answer of ``which python`` command in a terminal. If it points to a directory which name contains "anaconda", it means that you already have anaconda installed .
+To verify if you have anaconda installed, just look at the answer of ``which python`` command in a terminal. If it points to a directory which name contains "anaconda", it means that you already have anaconda installed.
 
 If you don't have anaconda installed: The anaconda package is available following this link: `https://www.continuum.io/downloads <https://www.continuum.io/downloads>`_. We will use the python 3.6 package.
 Once done, from a new terminal, do the following: ::
