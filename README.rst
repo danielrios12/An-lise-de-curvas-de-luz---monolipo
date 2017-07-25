@@ -7,6 +7,7 @@ use the tool.
 If you run into any problems, please contact Leandro de Almeida: monolipo.physics@gmail.com.
 Any use or modification of this tool can be done, as long as the author is warned
 These instructions were adapted from Morisset, C 2017.
+Collaboration fellows: Bruno Lustosa, Guilherme Monteiro - UFRN 2017
 
 git
 ===
@@ -38,9 +39,6 @@ The most simple way to have all the needed packages is to install a full python 
 To verify if you have anaconda installed, just look at the answer of ``which python`` command in a terminal. If it points to a directory which name contains "anaconda", it means that you already have anaconda installed.
 
 If you don't have anaconda installed: The anaconda package is available following this link: `https://www.continuum.io/downloads <https://www.continuum.io/downloads>`_. We will use the python 3.6 package.
-Once done, from a new terminal, do the following: ::
-
-  conda install pymysql
 
 2. If you already have an anaconda distribution installed for python2:
 you only need to install a 3.6 environment, by writing the following in a terminal: ::
@@ -51,7 +49,6 @@ you only need to install a 3.6 environment, by writing the following in a termin
 
    ipython kernel install --user
 
-  
 The last librarie is the kplr tool that you can instal doing the following:
 ::
    git clone https://github.com/dfm/kplr.git
